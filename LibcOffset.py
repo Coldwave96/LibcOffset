@@ -22,7 +22,7 @@ def banner():
     print(color.yellow + "[*] Usage: python " + sys.argv[0] + color.red + " [libc_file] " + color.end)
     
 if len(sys.argv) < 2 or len(sys.argv) > 2:
-    help()
+    banner()
     sys.exit(1)
 else:
     file = sys.argv[1]
