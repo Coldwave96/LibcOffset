@@ -1,4 +1,4 @@
-## LibcDffset : main_arena_offset查询工具
+## LibcOffset : main_arena_offset查询工具
 
 ![](https://img.shields.io/badge/Python-2-blue)
 ![](https://img.shields.io/github/license/Coldwave96/LibcOffset)
